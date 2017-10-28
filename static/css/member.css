@@ -1,0 +1,101 @@
+.zhuti{
+  background-color: #F3F5F9;
+}
+.recharge{
+  width: 100%;
+  height: 9rem;
+  background-color: #E8D19F;
+}
+.recharge_t{
+  padding-top: 1.5rem;
+  padding-left: 0.6rem;
+  color: #fff;
+}
+.yuer{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.yuer_l{
+  font-size: 2rem;
+  color: #fff;
+}
+.yuer_r{
+  align-self: flex-end;
+  color:#fff;
+  margin-left: 0.2rem;
+  padding-bottom: 0.5rem;
+}
+.member_qy{
+  width: 14.8rem;
+  padding: 0.85rem 0.6rem;
+  background-color: #fff;
+  line-height: 1.2rem;
+}
+.member_buy{
+  width: 14.8rem;
+  height: 2rem;
+  padding: 0 0.6rem;
+  background-color: #fff;
+  margin-top: 0.85rem;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+.member_buy_l{
+  height: 100%;
+  line-height: 2rem;
+  color: #333;
+  font-size: 0.7rem;
+}
+.member_buy_l span{
+  margin-left: 0.6rem;
+}
+.member_buy_r{
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+.member_buy_r_l{
+  line-height: 2rem;
+}
+.member_buy_r_r{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  width: 4rem;
+  height: 1rem;
+  border: 0.05rem solid #FFB57E;
+  align-self: center;
+  margin-left: 0.6rem;
+}
+.member_buy_r_r_l{
+  height: 100%;
+  flex-grow: 1;
+  text-align: center;
+}
+.member_buy_r_r_r{
+  flex-grow: 1;
+  text-align: center;
+  border-left: 0.05rem solid #FFB57E;
+}
+.gmxy{
+  width: 14.8rem;
+  padding: 0 0.6rem;
+  margin-top: 1rem;
+}
+.gmxy a{
+  color: #AEA987;
+}
+.gman{
+  width: 14.8rem;
+  height: 1.8rem;
+  text-align: center;
+  line-height: 1.8rem;
+  font-size: 0.7rem;
+  color: #fff;
+  margin:0.85rem auto;
+  background-color: #FFB57E;
+}

@@ -1,0 +1,98 @@
+.zhuti{
+  background-color: rgba(243,245,249,1);
+}
+.zhibo_top{
+  width: 100%;
+  height: 6.5rem;
+  overflow: hidden;
+  position: relative;
+}
+.zhibo_top img{
+  width: 100%;
+  height: 100%;
+}
+.audio_xx{
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+
+/*课程资料*/
+.skzl{
+  width: 14.8rem;
+  padding: 0.85rem 0.6rem;
+  background-color: #fff;
+}
+.skzl_t{
+  border-left: 0.1rem solid #BCB799;
+  height: 1rem;
+  padding-left: 0.3rem;
+  color: #333;
+}
+.skzl_b{
+  width: 100%;
+  color: #333;
+  line-height: 1.2rem;
+}
+.skzl_b img{
+  max-width: 100%;
+  margin: 0.3rem 0;
+}
+.zuoye{
+  width: 100%;
+}
+.zuoye_t{
+  width: 14.8rem;
+  padding: 0.85rem 0.6rem;
+}
+.zuoye_b{
+  width: 100%;
+  background-color: #fff;
+}
+.zuoye_b_ul{
+  width: 15.4rem;
+  padding-left: 0.5rem;
+}
+.zuoye_b_ul li{
+  width: 14.8rem;
+  padding: 0.6rem 0;
+  padding-right: 0.6rem;
+  font-size: 0.7rem;
+  border-bottom: 0.05rem solid #eaeaea;
+}
+
+/*悬浮回首页*/
+.xuanfu{
+  width: 3.2rem;
+  height: 1.2rem;
+  position: fixed;
+  top: 2rem;
+  z-index: 9;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  border-bottom-right-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+  background-color: rgba(0,0,0,0.4);
+}
+.xuanfu_l{
+  display: flex;
+  margin-left: 0.5rem;
+}
+.xuanfu_l img{
+  align-self: center;
+  width: 0.8rem;
+}
+.xuanfu_r{
+  color: #fff;
+  line-height: 1.2rem;
+  margin-left: 0.3rem;
+}
+/*自定义推片推广*/
+.zdyct{
+  width: 100%;
+  margin: 0.85rem 0;
+}
+.zdyct img{
+  max-width: 100%;
+}

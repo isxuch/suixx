@@ -1,0 +1,60 @@
+.msg_zhuti{
+  background-color: #F3F5F9;
+}
+.msg_system{
+  width: 100%;
+  height: 2.25rem;
+  margin-top: 0.6rem;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.msg_system_l{
+  width:2.25rem;
+  align-self: center;
+  text-align: center;
+}
+.msg_system_l img{
+  width: 0.8rem;
+}
+.msg_system_r{
+  width: 13.75rem;
+  height: 2.2rem;
+  line-height: 2.2rem;
+  display: flex;
+  flex-flow: row wrap;
+  font-size: 0.7rem;
+  justify-content: space-between;
+  border-bottom: 0.05rem solid #eaeaea;
+}
+.msg_system_r_r{
+  margin-right: 0.6rem;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+.msg_system_r_r_l{
+  color: #FFB57E;
+  margin-right: 0.3rem;
+}
+.msg_system_r_r_r{
+  display: flex;
+}
+.msg_system_r_r_r img{
+  width: 0.5rem;
+  align-self: center;
+}
+.wddz{
+  margin-top: 0;
+}
+.wddz .msg_system_r{
+  border: none;
+}
+
+.pinglun .msg_system_r{
+  border: none;
+}
+.pl_img{
+  width: 0.7rem;
+}

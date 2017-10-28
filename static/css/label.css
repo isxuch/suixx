@@ -1,0 +1,21 @@
+.label_top{
+  width: 14.8rem;
+  height: 2rem;
+  line-height: 2rem;
+  padding: 0 0.6rem;
+  color: #999;
+  background-color: #F3F5F9;
+}
+.label_list{
+  display: inline-flex;
+  width: 100%;
+  padding: 1rem 0;
+}
+.label_list_con{
+  min-width: 4rem;
+  height: 1.5rem;
+  text-align: center;
+  line-height: 1.5rem;
+  background-color: #F3F5F9;
+  margin-left: 0.6rem;
+}

@@ -1,0 +1,127 @@
+.recharge{
+  width: 100%;
+  height: 9rem;
+  background-color: #E8D19F;
+}
+.recharge_t{
+  padding-top: 1.5rem;
+  padding-left: 0.6rem;
+  color: #fff;
+}
+.yuer{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.yuer_l{
+  font-size: 2rem;
+  color: #fff;
+}
+.yuer_r{
+  align-self: flex-end;
+  color:#fff;
+  margin-left: 0.2rem;
+  padding-bottom: 0.5rem;
+}
+.recharge_butt{
+  width: 14.8rem;
+  height: 2rem;
+  margin: 0 auto;
+  margin-top: 0.85rem;
+  text-align: center;
+  line-height: 2rem;
+  color: #fff;
+  border-radius: 0.2rem;
+  background-color: #FFB57E;
+}
+
+/*弹出部分*/
+.zhezhao{
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  display: none;
+  background-color: rgba(0,0,0,0.4);
+}
+.tck{
+  width: 100%;
+  background-color: #fff;
+  position: fixed;
+  bottom: -20rem;
+  transition: all 0.3s;
+  z-index: 11;
+}
+.tck_t{
+  width: 100%;
+  height: 2rem;
+  line-height: 2rem;
+  text-align: center;
+  font-size: 0.7rem;
+  color: #333;
+}
+.jr_list{
+  width: auto;
+  padding: 0.25rem;
+  background-color: #F3F5F9;
+}
+.jr_list_ul{
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+
+
+}
+.jr_list_ul li{
+  height: 2.3rem;
+  margin: 0.25rem;
+  background-color: #fff;
+  flex-grow:1;
+  text-align: center;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-content: center;
+  border-radius: 0.1rem;
+}
+.kkgsa{
+  align-self: center;
+}
+.kkgsa span{
+  font-size: 0.5rem;
+}
+.czqy{
+  width: 14.8rem;
+  padding: 0.6rem;
+  background-color: #fff;
+}
+.srje_input{
+  width: 14rem;
+  height: 1.8rem;
+  padding: 0 0.4rem;
+  display: block;
+  background-color: #F3F5F9;
+}
+.yhxy{
+  width: 100%;
+  margin: 0.85rem 0;
+}
+.yhxy a{
+  color: #AEA987;
+}
+.chongzhi{
+  width: 100%;
+  height: 1.8rem;
+  background-color: #FFB57E;
+  text-align: center;
+  line-height: 1.8rem;
+  border-radius: 0.1rem;
+  color: #fff;
+  font-size: 0.7rem;
+}
+.kituy{
+  border: 0.05rem solid #FFB57E;
+}

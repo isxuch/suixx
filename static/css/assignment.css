@@ -1,0 +1,119 @@
+.content{
+  margin: 0;
+}
+/*加精*/
+.discover_add_jing{
+  width: 14.8rem;
+  margin: 0 auto;
+  margin-top: 0.85rem;
+}
+.discover_add_jing_ul{
+  width: 100%;
+}
+.discover_add_jing_ul li{
+  width: 100%;
+  margin-bottom: 0.85rem;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+.discover_add_jing_li_l{
+  width: 1.75rem;
+  height: 1.75rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.discover_add_jing_li_l img{
+  width: 100%;
+  height: 100%;
+}
+.discover_add_jing_li_r{
+  width: 12.45rem;
+  margin-left: 0.6rem;
+  padding-bottom: 0.85rem;
+  border-bottom: 0.05rem solid #eaeaea;
+  color: #999;
+}
+.discover_add_jing_li_r_t{
+  width: 100%;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+  margin-bottom: 0.6rem;
+}
+.discover_add_jing_li_r_t_r{
+  text-align: right;
+}
+.discover_add_jing_li_r_c{
+  width: 100%;
+  margin-bottom: 0.6rem;
+}
+.jing_img{
+  float: left;
+  width: 0.8rem;
+  height: 0.8rem;
+  margin-right: 0.3rem;
+}
+.add_jing_title{
+  line-height: 1.0rem;
+  font-size: 0.8rem;
+  color: #333;
+}
+.discover_add_jing_li_r_b{
+  width: 100%;
+  color: #999;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-start;
+}
+.discover_add_jing_li_r_b_r{
+  float: left;
+  margin-left: 0.6rem;
+}
+.lldz_span{
+  margin-left: 0.3rem;
+}
+
+/*加精有缩略图*/
+.discover_add_jing_none_li_r_c{
+  margin-bottom: 0;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+.discover_add_jing_li_r_c_l{
+  width: 6.85rem;
+  min-height: 0.5rem;
+}
+.discover_add_jing_li_r_c_r{
+  width: 5rem;
+  height: 5rem;
+  overflow: hidden;
+}
+.discover_add_jing_li_r_c_r img{
+  width: 100%;
+  height: 100%;
+}
+.discover_add_jing_li_r_c_l_t{
+  width: 100%;
+  height: 4rem;
+}
+.discover_add_jing_li_r_c_l_b{
+  width: 100%;
+  height: 1rem;
+  color: #999;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+
+.xjts{
+  margin-left: 0.6rem;
+  background-color: #F3F5F9;
+  color: #FFB57E;
+  padding: 0.1rem 0.2rem;
+}
+
+.discover_add_jing_li_r_t_r img{
+  width: 0.6rem;
+}
